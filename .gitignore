@@ -1,0 +1,21 @@
+node_modules/
+dist/
+build/
+.vite/
+.next/
+.env
+.env.local
+*.log
+*.zip
+*.csv
+*.parquet
+*.arrow
+
+# Commercial AeroPivot SDK files copied locally for examples.
+examples/**/aeropivot/pivot-table.es.js
+examples/**/aeropivot/pivot-themes.css
+examples/**/aeropivot/assets/pivot.worker.js
+examples/react/public/aeropivot/pivot-table.es.js
+examples/react/public/aeropivot/pivot-themes.css
+examples/react/public/aeropivot/assets/pivot.worker.js
+
